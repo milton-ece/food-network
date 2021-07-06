@@ -21,6 +21,7 @@ p{
 .flexible-container{
     display: flex;
     padding: 40px 20px;
+    margin-bottom: 150px;
 }
 .order-button{
     background-image: linear-gradient(tomato,Orange);
