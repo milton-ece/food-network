@@ -16,7 +16,7 @@ p{
     width: 50%;
 }
 .width-adjust img{
-    width: 75%;
+    width: 50%;
 }
 .flexible-container{
     display: flex;
@@ -33,7 +33,6 @@ p{
 }
 .bottom-banner{
     background-image: url(images/shapes/7.png);
-    background-position: center;
 }
 .center-position{
     text-align: center;
